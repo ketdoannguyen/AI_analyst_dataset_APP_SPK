@@ -1,0 +1,977 @@
+[
+    {
+        "question_series": "Can you describe your town or village?"
+    },
+    {
+        "question_series": "What places would you recommend people to visit in your town\/village?"
+    },
+    {
+        "question_series": "What are some popular festivals in your country?"
+    },
+    {
+        "question_series": "Describe your idea of a perfect holiday."
+    },
+    {
+        "question_series": "Talk about a place you visited with friends."
+    },
+    {
+        "question_series": "Describe a school you went to in your childhood"
+    },
+    {
+        "question_series": "Describe a person you admire."
+    },
+    {
+        "question_series": "Describe a person who has influenced you to do better in your life."
+    },
+    {
+        "question_series": "What was your favorite game in your childhood?"
+    },
+    {
+        "question_series": "The last time you saw your friends, what did you do together?"
+    },
+    {
+        "question_series": "What did you particularly enjoy doing with your friends when you were in high school?"
+    },
+    {
+        "question_series": "Have the things that you do with your friends changed over the years?"
+    },
+    {
+        "question_series": "What type of films do you like best?"
+    },
+    {
+        "question_series": "How often do you watch films?"
+    },
+    {
+        "question_series": "Who do you usually watch films with?"
+    },
+    {
+        "question_series": "Where do you prefer to watch films \u2013 at the cinema or at home?"
+    },
+    {
+        "question_series": "What was your dream when you were a child?"
+    },
+    {
+        "question_series": "Are you the kind of person who sticks to dreams?"
+    },
+    {
+        "question_series": "Are you an ambitious person?"
+    },
+    {
+        "question_series": "Describe a piece of clothing you wear most often"
+    },
+    {
+        "question_series": "What circumstances will people in your country wear formal clothes?"
+    },
+    {
+        "question_series": "When do people in your country wear traditional clothes?"
+    },
+    {
+        "question_series": "Describe a short trip you often take but do not like"
+    },
+    {
+        "question_series": "Can you tell me what you do? Do you work, or are you a student?"
+    },
+    {
+        "question_series": "Where do you come from? Can you describe your town or city to me?"
+    },
+    {
+        "question_series": "What do you like about the area where you live?"
+    },
+    {
+        "question_series": "What things in your town or city do you not like?"
+    },
+    {
+        "question_series": "Tell me about your school."
+    },
+    {
+        "question_series": "Whats your favourite hobby?"
+    },
+    {
+        "question_series": "Tell me about your family"
+    },
+    {
+        "question_series": "Whats your favourite colours?"
+    },
+    {
+        "question_series": "Tell me about the most important festival in your country."
+    },
+    {
+        "question_series": "What special food and activities are connected with this festival?"
+    },
+    {
+        "question_series": "What do you most enjoy about it?"
+    },
+    {
+        "question_series": "Do you think festivals are important for a country? Why?"
+    },
+    {
+        "question_series": "Describe a special toy you had in your childhood."
+    },
+    {
+        "question_series": "Which new hobby would you like to try?"
+    },
+    {
+        "question_series": "Which new sport would you like to try?"
+    },
+    {
+        "question_series": "What kind of new food would you like to try? Why?"
+    },
+    {
+        "question_series": "What would you like to change in your daily routine?"
+    },
+    {
+        "question_series": "Describe a river, lake or sea which you like"
+    },
+    {
+        "question_series": "Describe a park\/garden you like visitingWhere the park isWhen you visited itWhat the park is likeAnd explain why you like visiting it"
+    },
+    {
+        "question_series": "Are you a student?"
+    },
+    {
+        "question_series": "What subjects do you study?"
+    },
+    {
+        "question_series": "What do you like best about your course?"
+    },
+    {
+        "question_series": "What do you hope to do in the future?"
+    },
+    {
+        "question_series": "Describe a place that you often go to meet friends"
+    },
+    {
+        "question_series": "Describe a technological device you own that has improved your life."
+    },
+    {
+        "question_series": "Do you enjoy using technology?"
+    },
+    {
+        "question_series": "Do you use the Internet for your studies?"
+    },
+    {
+        "question_series": "Describe a piece of international news you recently heard"
+    },
+    {
+        "question_series": "Which kind of news is more popular? Domestic news or international news?"
+    },
+    {
+        "question_series": "Where would you like to live in the future?"
+    },
+    {
+        "question_series": "Is there anything about your house that you would like to change?"
+    },
+    {
+        "question_series": "What subjects would you like to study in the future?"
+    },
+    {
+        "question_series": "Will you learn other languages in the future?"
+    },
+    {
+        "question_series": "Describe the first day of your school"
+    },
+    {
+        "question_series": "Describe the neighbourhood where you live."
+    },
+    {
+        "question_series": "What do you like about living there?"
+    },
+    {
+        "question_series": "What do you dislike about your neighbourhood?"
+    },
+    {
+        "question_series": "What kind of neighbourhood would you like to live in?"
+    },
+    {
+        "question_series": "Do you like the same colors now as you did when you were younger?"
+    },
+    {
+        "question_series": "How different are the clothes you wear now from those you wore 10 years ago?"
+    },
+    {
+        "question_series": "Who did you generally spend your leisure time with when you were a child?"
+    },
+    {
+        "question_series": "What was your favorite book in your childhood?"
+    },
+    {
+        "question_series": "Talk about a new sport or hobby you would like to take up."
+    },
+    {
+        "question_series": "Do you like rainy days?"
+    },
+    {
+        "question_series": "Does it rain much in your city?"
+    },
+    {
+        "question_series": "Would you like to live in a place that is dry or wet?"
+    },
+    {
+        "question_series": "Describe a car journey you made that you remember well."
+    },
+    {
+        "question_series": "What benefits does public transport bring to the world?"
+    },
+    {
+        "question_series": "What qualities does a driver need to have?"
+    },
+    {
+        "question_series": "Describe a book or article that you enjoyed reading for your studies"
+    },
+    {
+        "question_series": "Why do some adults dislike reading?"
+    },
+    {
+        "question_series": "What\u2019s your favourite school subject?"
+    },
+    {
+        "question_series": "Where did you go on holiday last summer?"
+    },
+    {
+        "question_series": "What sports do you like?"
+    },
+    {
+        "question_series": "What time do you usually get up?"
+    },
+    {
+        "question_series": "What do you like doing in your free time?"
+    },
+    {
+        "question_series": "Why do you like doing these things?"
+    },
+    {
+        "question_series": "How much time do you spend on these hobbies?"
+    },
+    {
+        "question_series": "What would you do if you had more free time?"
+    },
+    {
+        "question_series": "Do you use a wallet?"
+    },
+    {
+        "question_series": "Have you ever lost your wallet?"
+    },
+    {
+        "question_series": "Describe a piece of interesting news about which people were very excited"
+    },
+    {
+        "question_series": "How has social media changed the way we get and share the news?"
+    },
+    {
+        "question_series": "Do you come from a large family or a small family?"
+    },
+    {
+        "question_series": "As a child, who did you spend more time with: your family or your friends? Why?"
+    },
+    {
+        "question_series": "When you were a child, how did you spend your weekends?"
+    },
+    {
+        "question_series": "What did you enjoy most about school?"
+    },
+    {
+        "question_series": "Describe your favourite movie"
+    },
+    {
+        "question_series": "Describe a unique marketplace you want to visit."
+    },
+    {
+        "question_series": "What risks would people face when shopping online?"
+    },
+    {
+        "question_series": "Do young people nowadays believe in saving money?"
+    },
+    {
+        "question_series": "Can people tell a persons personality by his\/her clothes?"
+    },
+    {
+        "question_series": "Describe an activity that you enjoy that takes place in or near water."
+    },
+    {
+        "question_series": "Why do some adults take part in dangerous water sports?"
+    },
+    {
+        "question_series": "How do you celebrate festivals in your country?"
+    },
+    {
+        "question_series": "What special food and activities do you have for these festivals?"
+    },
+    {
+        "question_series": "What\u2019s your favourite festival of the year?"
+    },
+    {
+        "question_series": "Do you have a talent, or something you are good at?"
+    },
+    {
+        "question_series": "Do you think your talent can be useful for your future work? Why?"
+    },
+    {
+        "question_series": "Do you think anyone in your family has the same talent?"
+    },
+    {
+        "question_series": "Describe a time when you had to wait in a long line."
+    },
+    {
+        "question_series": "Do you think the development of technology has reduced the time people spend on waiting?"
+    },
+    {
+        "question_series": "What are you studying?"
+    },
+    {
+        "question_series": "What do you like about learning English?"
+    },
+    {
+        "question_series": "How often do you use English?"
+    },
+    {
+        "question_series": "Describe a game or sport you enjoy playing."
+    },
+    {
+        "question_series": "How have games changed from the time when you were a child?"
+    },
+    {
+        "question_series": "Do you think this has been a positive change? Why?"
+    },
+    {
+        "question_series": "Why do you think children like playing games?"
+    },
+    {
+        "question_series": "Describe a perfect job you would like to have in the future"
+    },
+    {
+        "question_series": "Are your friends mostly your age or different ages? Why?"
+    },
+    {
+        "question_series": "Do you usually see your friends during the week or at weekends? Why?"
+    },
+    {
+        "question_series": "In what ways are your friends important to you?"
+    },
+    {
+        "question_series": "Describe an interesting historic place."
+    },
+    {
+        "question_series": "How do people in your country feel about protecting historic buildings?"
+    },
+    {
+        "question_series": "Do you think an area can benefit from having an interesting historic place locally? In what way?"
+    },
+    {
+        "question_series": "What do you think will happen to historic places or buildings in the future? Why?"
+    },
+    {
+        "question_series": "Describe something you own which has improved your life."
+    },
+    {
+        "question_series": "Describe an item that you bought and felt pleased about"
+    },
+    {
+        "question_series": "Do you think it is necessary to have laws on the use of mobile phones?"
+    },
+    {
+        "question_series": "Describe a competition you want to see"
+    },
+    {
+        "question_series": "Is there anything you usually do together with your family?"
+    },
+    {
+        "question_series": "Do you spend more time with your family or with your friends? Why?"
+    },
+    {
+        "question_series": "Have you got a lot of friends or do you prefer to have just a few good friends? Why\/Why not?"
+    },
+    {
+        "question_series": "What makes a good friend?"
+    },
+    {
+        "question_series": "Do you often go out with your friends?"
+    },
+    {
+        "question_series": "Where do you often meet each other?"
+    },
+    {
+        "question_series": "What do you usually do with your friends?"
+    },
+    {
+        "question_series": "Describe someone you know who often helps others"
+    },
+    {
+        "question_series": "How can children help their parents at home?"
+    },
+    {
+        "question_series": "Should children be taught to help others?"
+    },
+    {
+        "question_series": "Describe a sports match that you saw on TV."
+    },
+    {
+        "question_series": "What are the advantages and disadvantages of hosting different international sporting events in a country?"
+    },
+    {
+        "question_series": "Do you like to travel by car?"
+    },
+    {
+        "question_series": "Do you like to sit in the front or back when traveling by car?"
+    },
+    {
+        "question_series": "Describe an important car journey that was delayed."
+    },
+    {
+        "question_series": "Has transport changed in your country?"
+    },
+    {
+        "question_series": "Describe a famous festival in your country"
+    },
+    {
+        "question_series": "What will you do this weekend?"
+    },
+    {
+        "question_series": "What do you usually like to do on weekends?"
+    },
+    {
+        "question_series": "Do you like going to the cinema on the weekends?"
+    },
+    {
+        "question_series": "What do your friends like to do on weekends?"
+    },
+    {
+        "question_series": "Describe a journey you made where you learned something new."
+    },
+    {
+        "question_series": "Describe a shop that you enjoy going to."
+    },
+    {
+        "question_series": "Do you want to be a teacher in the future?"
+    },
+    {
+        "question_series": "Do you remember one of your teachers?"
+    },
+    {
+        "question_series": "Who was your favourite teacher?"
+    },
+    {
+        "question_series": "Describe a speech experience that you had"
+    },
+    {
+        "question_series": "How often do you look at the sky?"
+    },
+    {
+        "question_series": "Do you prefer the sky in the morning or the sky at night?"
+    },
+    {
+        "question_series": "Describe a language that you want to learn (not English)What it isHow you would learn itWhere you would learn itAnd explain why you want to learn this language"
+    },
+    {
+        "question_series": "Do you think people will speak the same language in the future (maybe English)?"
+    },
+    {
+        "question_series": "Describe an important skill you did not learn from school."
+    },
+    {
+        "question_series": "Which skills do you think will be important in the future? Why?"
+    },
+    {
+        "question_series": "Describe your favorite room"
+    },
+    {
+        "question_series": "Which day is your favorite day?"
+    },
+    {
+        "question_series": "Which day is your least favourite one?"
+    },
+    {
+        "question_series": "How do you usually spend your time?"
+    },
+    {
+        "question_series": "Describe a job that you think is interesting"
+    },
+    {
+        "question_series": "What are the most popular jobs for young people in your country?"
+    },
+    {
+        "question_series": "When is the right time for young people to start making serious plans for their future careers?"
+    },
+    {
+        "question_series": "Have you ever been to a zoo or a safari park?"
+    },
+    {
+        "question_series": "What is the animal you would like to see in the wild?"
+    },
+    {
+        "question_series": "Describe a movie you watched recently that you felt disappointed about"
+    },
+    {
+        "question_series": "Do you believe movie reviews?"
+    },
+    {
+        "question_series": "Are historical films popular in your country? Why?"
+    },
+    {
+        "question_series": "If you are an adult, answer this question:Do you work or are you a student?"
+    },
+    {
+        "question_series": "What do you like about your school\/work?"
+    },
+    {
+        "question_series": "How often do you have English classes?"
+    },
+    {
+        "question_series": "Describe an intelligent person"
+    },
+    {
+        "question_series": "Do you think being intelligent can help a person become successful?"
+    },
+    {
+        "question_series": "Do you like to go to the zoo?"
+    },
+    {
+        "question_series": "How do you feel when seeing wild animals in the zoo?"
+    },
+    {
+        "question_series": "Describe a thing that you bought and felt pleased about"
+    },
+    {
+        "question_series": "How often do people in your country go shopping?"
+    },
+    {
+        "question_series": "Describe your favourite food."
+    },
+    {
+        "question_series": "Describe a small company that you want to talk about."
+    },
+    {
+        "question_series": "What responsibilities do multinational companies have toward local communities in which they operate?"
+    },
+    {
+        "question_series": "What factors should people take into consideration when choosing jobs?"
+    },
+    {
+        "question_series": "What are effective strategies for governments and employers to ensure people have a good work-life balance?"
+    },
+    {
+        "question_series": "Describe your favourite sport"
+    },
+    {
+        "question_series": "Do you have a mobile phone?"
+    },
+    {
+        "question_series": "When did you buy your mobile phone?"
+    },
+    {
+        "question_series": "How often do you use your mobile phone?"
+    },
+    {
+        "question_series": "Are there TV programs about wild animals in your country?"
+    },
+    {
+        "question_series": "Why do you like it?"
+    },
+    {
+        "question_series": "Do you play football?"
+    },
+    {
+        "question_series": "How often do you play it?"
+    },
+    {
+        "question_series": "Describe a subject you enjoy studying at school"
+    },
+    {
+        "question_series": "Are all your days the same?"
+    },
+    {
+        "question_series": "Tell me about your typical weekday and your typical weekend."
+    },
+    {
+        "question_series": "What is the balance of work\/study and free time in your normal day?"
+    },
+    {
+        "question_series": "Describe something you own which is very important to you."
+    },
+    {
+        "question_series": "What kind of possessions show status in your country?"
+    },
+    {
+        "question_series": "Modern society is often called materialistic. Why do you think this is?"
+    },
+    {
+        "question_series": "Do you think consumerism is a positive or a negative development?"
+    },
+    {
+        "question_series": "How do you think travel will be different in the future?"
+    },
+    {
+        "question_series": "Do you think that famous people are generally happier than ordinary people?"
+    },
+    {
+        "question_series": "What qualities does a person need to have in order to be famous?"
+    },
+    {
+        "question_series": "Is it easier or more difficult to achieve fame today than in your grandparents\u2019 time?"
+    },
+    {
+        "question_series": "Do you think more is expected from famous people than ordinary citizens?"
+    },
+    {
+        "question_series": "What can you fix?"
+    },
+    {
+        "question_series": "How to fix things?"
+    },
+    {
+        "question_series": "Did you ask people to teach you to fix things when you were a child?"
+    },
+    {
+        "question_series": "Describe an invention which is very useful in your daily life."
+    },
+    {
+        "question_series": "Are there inventions that have changed the world?"
+    },
+    {
+        "question_series": "What are the qualities of a scientist?"
+    },
+    {
+        "question_series": "Which kind of news is more popular: domestic news or international news?"
+    },
+    {
+        "question_series": "Did you stay focused in class when you were a child?"
+    },
+    {
+        "question_series": "Are you a focused person?"
+    },
+    {
+        "question_series": "How do you stay focused?"
+    },
+    {
+        "question_series": "Describe an expensive gift that you would like to give someone"
+    },
+    {
+        "question_series": "What do young people like to save money for?"
+    },
+    {
+        "question_series": "Should children learn how to use money at school or from their parents?"
+    },
+    {
+        "question_series": "What\u2019s your favourite colour? Why?"
+    },
+    {
+        "question_series": "Do you like the same colours now as you did when you were younger? Why\/ Why not?"
+    },
+    {
+        "question_series": "What can you learn about a person from the colours they like?"
+    },
+    {
+        "question_series": "Do any colours have a special meaning in your culture?"
+    },
+    {
+        "question_series": "Describe a river, lake or sea which you like."
+    },
+    {
+        "question_series": "What do people enjoy doing when they visit rivers, lakes or the sea? Why do you think these activities are popular?"
+    },
+    {
+        "question_series": "What benefits do you think people get from the activities they enjoy in the water?"
+    },
+    {
+        "question_series": "What are the different advantages of going to the sea or to a swimming pool to enjoy yourself? What do you think the disadvantages are?"
+    },
+    {
+        "question_series": "What kind of trees do people usually plant in your country?"
+    },
+    {
+        "question_series": "Have you ever planted a tree?"
+    },
+    {
+        "question_series": "Describe a time you made a promise to someone"
+    },
+    {
+        "question_series": "Do you think it is important to fulfill promises?"
+    },
+    {
+        "question_series": "What do you do on your day off?"
+    },
+    {
+        "question_series": "Do you usually spend your days off with your parents or with your friends?"
+    },
+    {
+        "question_series": "Describe an occasion when you got lost"
+    },
+    {
+        "question_series": "How do people react when they get lost?"
+    },
+    {
+        "question_series": "ls a paper map still necessary?"
+    },
+    {
+        "question_series": "Do you usually carry a bag?"
+    },
+    {
+        "question_series": "What kinds of bags do you like to carry?"
+    },
+    {
+        "question_series": "Do you change your bags often?"
+    },
+    {
+        "question_series": "Describe a new shop that recently opened in your city\/town"
+    },
+    {
+        "question_series": "Why do young people enjoy going to some boutiques?"
+    },
+    {
+        "question_series": "Do you think location is the key factor that attracts customers?"
+    },
+    {
+        "question_series": "Describe a fun event that you went to"
+    },
+    {
+        "question_series": "Which are your favourite animals? Why?"
+    },
+    {
+        "question_series": "Which animals don\u2019t you like? Why?"
+    },
+    {
+        "question_series": "Where are the best places in your country to see wildlife?"
+    },
+    {
+        "question_series": "Describe a place you have visited where you can see interesting animals."
+    },
+    {
+        "question_series": "Why do you think some people enjoy learning new things?"
+    },
+    {
+        "question_series": "Do children like to choose the same profession as their parents?"
+    },
+    {
+        "question_series": "What should people consider when choosing jobs?"
+    },
+    {
+        "question_series": "What things can make people fall asleep?"
+    },
+    {
+        "question_series": "Why do some people not get enough sleep?"
+    },
+    {
+        "question_series": "Why do people sometimes forget important things?"
+    },
+    {
+        "question_series": "Describe a fun event that you want to attend"
+    },
+    {
+        "question_series": "Which one is better, being a communicator or a listener?"
+    },
+    {
+        "question_series": "What qualities does a person need to have to be a communicator?"
+    },
+    {
+        "question_series": "Describe an item that you use every day."
+    },
+    {
+        "question_series": "Do you think it is healthy for you to eat snacks?"
+    },
+    {
+        "question_series": "What snacks do you like to eat?"
+    },
+    {
+        "question_series": "Describe a person you would like to study or work with."
+    },
+    {
+        "question_series": "Describe a famous person you admire."
+    },
+    {
+        "question_series": "Describe a building with a unique feature that you know about."
+    },
+    {
+        "question_series": "Are there any benefits of building new houses with the traditional architectural style of the area?"
+    },
+    {
+        "question_series": "Describe a time you learnt a useful skills"
+    },
+    {
+        "question_series": "Describe a special building that you have been to"
+    },
+    {
+        "question_series": "Describe a time you did something rewarding."
+    },
+    {
+        "question_series": "Describe your favourite sport."
+    },
+    {
+        "question_series": "Do you like travelling?"
+    },
+    {
+        "question_series": "Did you go on holiday last summer?"
+    },
+    {
+        "question_series": "In which season do you prefer to travel?"
+    },
+    {
+        "question_series": "Where have you been to in Vietnam?"
+    },
+    {
+        "question_series": "Could you suggest some reasons why some people are deciding to reduce their use of technology?"
+    },
+    {
+        "question_series": "Which programs or apps are most popular in your country?"
+    },
+    {
+        "question_series": "Should parents limit the time that their children spent on using mobile phones?"
+    },
+    {
+        "question_series": "Do you have any hobbies or interests? What are they?"
+    },
+    {
+        "question_series": "How did you become interested in that hobby?"
+    },
+    {
+        "question_series": "What is there to do in your free time in your hometown?"
+    },
+    {
+        "question_series": "How do you usually spend your holidays?"
+    },
+    {
+        "question_series": "Describe one of your friends."
+    },
+    {
+        "question_series": "What do you think are the most important qualities for friends to have?"
+    },
+    {
+        "question_series": "Which are more important to people, their family or their friends? Why?"
+    },
+    {
+        "question_series": "What do you think causes friendships to break up?"
+    },
+    {
+        "question_series": "Describe an important life event in your country."
+    },
+    {
+        "question_series": "Describe your favourite subject"
+    },
+    {
+        "question_series": "Describe how you try to help the environment."
+    },
+    {
+        "question_series": "Describe your favourite item"
+    },
+    {
+        "question_series": "Describe a familiar person (family, friends, elderly, teachers) that you admire"
+    },
+    {
+        "question_series": "Describe a famous person that you want to meet"
+    },
+    {
+        "question_series": "Describe a time when you were busy"
+    },
+    {
+        "question_series": "Why do you think it is important to have a work-life balance?"
+    },
+    {
+        "question_series": "Describe a tall building in your city you like or dislike"
+    },
+    {
+        "question_series": "What are the disadvantages of living in tall buildings?"
+    },
+    {
+        "question_series": "Do you think there will be more tall buildings in the future?"
+    },
+    {
+        "question_series": "Why aren\u2019t there many tall buildings in the countryside?"
+    },
+    {
+        "question_series": "What are the qualities of a good parent?"
+    },
+    {
+        "question_series": "Which members of a family usually live together in your culture?"
+    },
+    {
+        "question_series": "What do you think about the differences between families in the past and today, and what have caused these changes?"
+    },
+    {
+        "question_series": "How much time have you spent by the ocean?"
+    },
+    {
+        "question_series": "Why do people like being near the ocean?"
+    },
+    {
+        "question_series": "What do you like about the ocean?"
+    },
+    {
+        "question_series": "Describe a city you would like to live in."
+    },
+    {
+        "question_series": "What are the main disadvantages of living in a city?"
+    },
+    {
+        "question_series": "How do you think cities could be improved?"
+    },
+    {
+        "question_series": "Are people less friendly in cities than in the countryside?"
+    },
+    {
+        "question_series": "Do most people live in houses or apartments in your country?"
+    },
+    {
+        "question_series": "What do people usually do in their free time in your country?"
+    },
+    {
+        "question_series": "What is your favourite meal?"
+    },
+    {
+        "question_series": "How have people\u2019s eating habits changed in your country?"
+    },
+    {
+        "question_series": "Describe a television programme that you watch."
+    },
+    {
+        "question_series": "How do you feel about the amount of advertising on television?"
+    },
+    {
+        "question_series": "In what ways has television advertising changed in the last ten years?"
+    },
+    {
+        "question_series": "To what extent are people influenced by the advertising they see on television?"
+    },
+    {
+        "question_series": "What kinds of people do you like to make friends with?"
+    },
+    {
+        "question_series": "How often do you see your friends?"
+    },
+    {
+        "question_series": "Have you ever made new friends online?"
+    },
+    {
+        "question_series": ""
+    },
+    {
+        "question_series": "Should parents give their children advice?"
+    },
+    {
+        "question_series": "What kinds of advice should parents give their children?"
+    },
+    {
+        "question_series": "Should the younger generation ask for advice from the older generation?"
+    },
+    {
+        "question_series": "Do you prefer relaxing at home or going out in the evening? Why?"
+    },
+    {
+        "question_series": "When you go out for an evening, what do you like to do?"
+    },
+    {
+        "question_series": "How popular is this with other people in your country?"
+    },
+    {
+        "question_series": "Is there any kind of entertainment you do not like? Why\/Why not?"
+    },
+    {
+        "question_series": "Describe a well-known person you like or admire."
+    },
+    {
+        "question_series": "What kind of people become famous these days?"
+    },
+    {
+        "question_series": "Is this different from the kind of achievement that made people famous in the past? In what way?"
+    },
+    {
+        "question_series": "How do you think people will become famous in the future?"
+    }
+]
